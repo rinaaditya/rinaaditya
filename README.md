@@ -11,4 +11,4 @@ Supply chain and operational analytics in SQL and Python. Practical models groun
 
 ## Find me
 
-[Website](https://zaditya.com) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) · [Tableau Public](https://public.tableau.com/app/profile/YOUR-TABLEAU-HANDLE)
+[Website](https://zaditya.com) · [LinkedIn](https://www.linkedin.com/in/zahhri/) · [Tableau Public](https://public.tableau.com/app/profile/zahrina.aditya/vizzes)
